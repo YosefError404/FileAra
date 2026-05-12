@@ -1,16 +1,13 @@
-# FileAra
-📂 فایل‌آرا
+# 📂 FileAra
 
-نرم‌افزاری هوشمند برای مرتب‌سازی خودکار فایل‌های دسکتاپ. پوشه‌های شلوغ را بر اساس نوع فایل و تاریخ به‌صورت خودکار دسته‌بندی می‌کند.
+A smart file organizer built with PySide6 🚀
 
-✨ ویژگی‌ها:
+## ✨ Features
+- 🗂️ Automatic file sorting
+- 🔎 Recursive search in subfolders
+- 🌙☀️ Dark and Light theme
+- 🌍 Persian & English language support
+- 🔄 Update checker
 
-🌗 حالت تیره و روشن
-
-🌍 پشتیبانی از زبان فارسی و انگلیسی
-
-🗂 دسته‌بندی قابل تنظیم
-
-🎨 رابط کاربری مدرن و ساده
-
-فایل‌هایتان را سریع و هوشمند مدیریت کنید! 🚀
+## ⬇️ Download
+Download the latest version from the **Releases** section.
